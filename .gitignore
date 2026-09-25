@@ -1,0 +1,5 @@
+/config/instances/*/bin
+/config/instances/*/data
+/config/instances/*/source
+/config/instances/*/dumps
+/config/instances/*/binaries
